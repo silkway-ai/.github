@@ -1,2 +1,1 @@
-# .github
-AISolutions
+# AISolutions
